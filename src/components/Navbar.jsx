@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/Priyanshu_logo.png";
+import logo from "public/Priyanshu_logo.png";
 import { FaLinkedin, FaGithub, FaInstagram, FaTwitter } from "react-icons/fa";
 const Navbar = () => {
   return (
